@@ -15,7 +15,7 @@ import pancraciaImage from "./assets/clairvoyant-ball.webp";
 function App() {
   return (
     <>
-      {/* THIS IS CALLED FRAGMENT*/}
+      {/* THIS IS CALLED FRAGMENT <></>*/}
       <Header />
       <div className="heros-container">
         <HeroSection name="Pepe the Boncrahser" image={bonCrasherImage} />
