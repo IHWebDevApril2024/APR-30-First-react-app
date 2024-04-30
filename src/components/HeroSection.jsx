@@ -1,6 +1,6 @@
 import "./HeroSection.css"
 
-function HeroSection(props){
+function HeroSection(props){ // this props is the object that we pass from the parent component
     return(
         <section className="hero-section">
             <img className="profile-img" src={props.image} alt={props.name} />
