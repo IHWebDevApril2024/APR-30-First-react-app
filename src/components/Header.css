@@ -1,0 +1,27 @@
+#header {
+  align-items: center;
+  background-color: #646cff;
+  display: flex;
+  height: 100px;
+  justify-content: space-between;
+  padding: 0 40px;
+  width: 100%;
+}
+
+#header img{
+    width: 30px;
+}
+
+.nav-links{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+}
+
+.nav-links li{
+    cursor: pointer;
+}
+
+.spin {
+    animation: logo-spin infinite 2s linear;
+}
