@@ -7,10 +7,7 @@ import Header from "./components/Header";
 import HeroSection from "./components/HeroSection";
 
 // IMAGES
-import avelinoImage from "./assets/wizard.webp";
-import bonCrasherImage from "./assets/dwarf.png";
-import kilikoloImage from "./assets/octopus.webp";
-import pancraciaImage from "./assets/clairvoyant-ball.webp";
+import { avelinoImage, bonCrasherImage, pancraciaImage, kilikoloImage } from "./assets";
 
 function App() {
   return (

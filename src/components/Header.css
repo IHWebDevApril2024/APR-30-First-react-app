@@ -23,5 +23,5 @@
 }
 
 .spin {
-    animation: logo-spin infinite 2s linear;
+    animation: logo-spin infinite 2ms linear;
 }
